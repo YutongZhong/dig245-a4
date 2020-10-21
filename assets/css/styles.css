@@ -1,2 +1,90 @@
+body {
+  background-color: #1070eb;
+}
 
-/* css */
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+h5 {
+  text-align: center;
+  color: #e6f2ff;
+}
+
+.rounded-circle {
+  z-index: 100;
+  position: absolute;
+  background-color: #ffffff;
+  color: #ff6633;
+  font-size: 4rem;
+  font-weight: bold;
+  padding: 0.5rem 0.5rem;
+  margin-top: -1.5rem;
+  margin-left: 2rem;
+}
+
+.rounded {
+  z-index: 100;
+  position: absolute;
+  background-color: #ffffff;
+  color: #ff6633;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 1rem 1rem;
+  margin-top: -0.5rem;
+  margin-left: 5rem;
+}
+
+.result {
+  background-color: #b3d9ff
+}
+
+.task {
+  color: #ffffff;
+  background-color: #000066;
+}
+
+h6 {
+  font-size: 1.5rem;
+}
+
+.data, code {
+  color: #0033cc;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.item {
+  color: #000066;
+}
+
+.success {
+  color: #6600cc;
+}
+
+.trouble {
+  color: #cc0099;
+}
+
+.recommendation {
+  background-color: #000066;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.link {
+  z-index: 100;
+  position: absolute;
+  margin-top: 12rem;
+  margin-left: -10rem;
+  background-color: #ffffff;
+  padding: 1rem 1rem;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.css {
+  float: right;
+}
