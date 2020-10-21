@@ -77,8 +77,6 @@ h6 {
 .link {
   z-index: 100;
   position: absolute;
-  margin-top: 12rem;
-  margin-left: -10rem;
   background-color: #ffffff;
   padding: 1rem 1rem;
   font-weight: bold;
@@ -86,5 +84,8 @@ h6 {
 }
 
 .css {
+  z-index: 100;
+  position: absolute;
   float: right;
+  margin-top: 3rem;
 }
